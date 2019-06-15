@@ -3,6 +3,7 @@
 Problem: Given an input string, encrypt it by specified scheme.
 URL: https://www.hackerrank.com/challenges/encryption/
 
+Runtime: O(n)
 '''
 
 
